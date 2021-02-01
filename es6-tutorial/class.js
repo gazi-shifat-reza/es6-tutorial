@@ -1,5 +1,5 @@
 class Student{          //class declaration
-    constructor(sName, sAge){       //constructor set
+    constructor(sName, sAge){       //creating object using constructor
         this.name = sName;
         this.age = sAge;
         this.school = 'Rifles public School';
